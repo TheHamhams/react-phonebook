@@ -1,1 +1,5 @@
 export * from './Home'
+export * from './Contact'
+export * from './Phonebook'
+export * from './About'
+export * from './SignIn'
